@@ -20,7 +20,7 @@ I'm a passionate Python Coder from SriLanka. You can also call me Poxlm.
 
 ## 🚀 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<Your GitHub Username>&show_icons=true&theme=radical)](https://github.com/<Your GitHub Username>)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poxlm&show_icons=true&theme=radical)](https://github.com/Poxlm)
 
 ## 🌟 Featured Projects
 
@@ -36,13 +36,13 @@ I'm a passionate Python Coder from SriLanka. You can also call me Poxlm.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexbebe)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/alexbebe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/AlexBebe0909)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/AlexBebe0909)
 
 ## ❤️ Support
 
 If you find my projects or contributions helpful, consider buying me a coffee! ☕
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/alexbebe)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/AlexBebe0909)
 
 Thanks for visiting and don't forget to star my repos! 🌟
