@@ -25,8 +25,8 @@ I'm a passionate Python Coder from SriLanka. You can also call me Poxlm.
 ## 🌟 Featured Projects
 
 <!-- List your featured GitHub projects here with links and descriptions -->
-1. [Project 1](https://github.com/KasRoudra/MaxPhisher): 
-2. [Project 2](https://github.com/Poxlm/Termux_Stylish_shell): 
+1. [MaxPhisher](https://github.com/KasRoudra/MaxPhisher) 
+2. [Termux Style Shell](https://github.com/Poxlm/Termux_Stylish_shell)
 
 ## 📚 Blog & Writing
 
@@ -36,13 +36,13 @@ I'm a passionate Python Coder from SriLanka. You can also call me Poxlm.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/<Your LinkedIn Profile>)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/<Your Twitter Profile>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexbebe)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/alexbebe)
 
 ## ❤️ Support
 
 If you find my projects or contributions helpful, consider buying me a coffee! ☕
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/<YourUsername>)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/alexbebe)
 
 Thanks for visiting and don't forget to star my repos! 🌟
